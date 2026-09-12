@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lamasat468-cmd.github.io/LAMASAT_ALSHARKYAH/sitemap.xml
